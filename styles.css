@@ -1,0 +1,24 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#start {
+  width: auto;
+  align-items: center;
+  border-radius: 5px;
+  background-color: bisque;
+  font-weight: bold;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.5rem;
+  position: absolute;
+  bottom: 50px;
+}
+
+.img {
+  border: 5px solid bisque;
+  width: auto;
+  height: 500px;
+  margin-bottom: 50px;
+}
