@@ -7,7 +7,7 @@ body {
 #start {
   width: auto;
   align-items: center;
-  border-radius: 6px;
+  border-radius: 5px;
   background-color: bisque;
   font-weight: bold;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
@@ -17,7 +17,7 @@ body {
 }
 
 .img {
-  border: 5px solid bisque;
+  border: 6px solid bisque;
   width: auto;
   height: 500px;
   margin-bottom: 50px;
